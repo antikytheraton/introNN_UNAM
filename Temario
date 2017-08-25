@@ -1,0 +1,16 @@
+Intro a Redes Neuronales
+ricardo_rodab@ciencias.unam.mx
+
+Temario
+1 - Revision/ Historia
+        Probabilidad, Algebra Lineal, Metodos Numericos
+2 - Regresion Lineal y Logistica
+        Perceptron(XOR)
+3 - PMC (XOR Revisitado)
+        Funciones de activacion
+4 - Redes autoasociativas y recurrentes
+        Hopfield
+        SOM
+5 - Temas selectos
+        RNN
+        CNN
